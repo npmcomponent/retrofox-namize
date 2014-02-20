@@ -1,16 +1,10 @@
 {
-  "name": "namize-component",
-  "author": "Damian Suarez <rdsuarez@gmail.com>",
+  "name": "retrofox-namize",
+  "description": "Namize a string",
   "version": "0.1.2",
-  "dependencies": {
-  },
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "component": {
-    "scripts": {
-      "namize/index.js": "index.js"
-    }
-  }
+  "keywords": [
+    "string",
+    "namize"
+  ],
+  "dependencies": {}
 }
